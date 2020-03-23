@@ -1,0 +1,7 @@
+c:\users\akasaxen2\source\repos\Zola.Progams\Zola.Progams\bin\Debug\Zola.Progams.exe.config
+c:\users\akasaxen2\source\repos\Zola.Progams\Zola.Progams\bin\Debug\Zola.Progams.exe
+c:\users\akasaxen2\source\repos\Zola.Progams\Zola.Progams\bin\Debug\Zola.Progams.pdb
+c:\users\akasaxen2\source\repos\Zola.Progams\Zola.Progams\obj\Debug\Zola.Progams.csprojAssemblyReference.cache
+c:\users\akasaxen2\source\repos\Zola.Progams\Zola.Progams\obj\Debug\Zola.Progams.csproj.CoreCompileInputs.cache
+c:\users\akasaxen2\source\repos\Zola.Progams\Zola.Progams\obj\Debug\Zola.Progams.exe
+c:\users\akasaxen2\source\repos\Zola.Progams\Zola.Progams\obj\Debug\Zola.Progams.pdb

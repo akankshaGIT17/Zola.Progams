@@ -1,0 +1,14 @@
+c:\users\akasaxen2\source\repos\Zola.Progams\EmployeeProjectInCore\obj\Debug\netcoreapp2.1\EmployeeProjectInCore.csprojAssemblyReference.cache
+c:\users\akasaxen2\source\repos\Zola.Progams\EmployeeProjectInCore\obj\Debug\netcoreapp2.1\EmployeeProjectInCore.csproj.CoreCompileInputs.cache
+c:\users\akasaxen2\source\repos\Zola.Progams\EmployeeProjectInCore\obj\Debug\netcoreapp2.1\EmployeeProjectInCore.RazorAssemblyInfo.cache
+c:\users\akasaxen2\source\repos\Zola.Progams\EmployeeProjectInCore\bin\Debug\netcoreapp2.1\EmployeeProjectInCore.deps.json
+c:\users\akasaxen2\source\repos\Zola.Progams\EmployeeProjectInCore\bin\Debug\netcoreapp2.1\EmployeeProjectInCore.runtimeconfig.json
+c:\users\akasaxen2\source\repos\Zola.Progams\EmployeeProjectInCore\bin\Debug\netcoreapp2.1\EmployeeProjectInCore.runtimeconfig.dev.json
+c:\users\akasaxen2\source\repos\Zola.Progams\EmployeeProjectInCore\bin\Debug\netcoreapp2.1\EmployeeProjectInCore.dll
+c:\users\akasaxen2\source\repos\Zola.Progams\EmployeeProjectInCore\bin\Debug\netcoreapp2.1\EmployeeProjectInCore.pdb
+c:\users\akasaxen2\source\repos\Zola.Progams\EmployeeProjectInCore\obj\Debug\netcoreapp2.1\EmployeeProjectInCore.RazorAssemblyInfo.cs
+c:\users\akasaxen2\source\repos\Zola.Progams\EmployeeProjectInCore\obj\Debug\netcoreapp2.1\EmployeeProjectInCore.AssemblyInfoInputs.cache
+c:\users\akasaxen2\source\repos\Zola.Progams\EmployeeProjectInCore\obj\Debug\netcoreapp2.1\EmployeeProjectInCore.AssemblyInfo.cs
+c:\users\akasaxen2\source\repos\Zola.Progams\EmployeeProjectInCore\obj\Debug\netcoreapp2.1\EmployeeProjectInCore.RazorTargetAssemblyInfo.cache
+c:\users\akasaxen2\source\repos\Zola.Progams\EmployeeProjectInCore\obj\Debug\netcoreapp2.1\EmployeeProjectInCore.dll
+c:\users\akasaxen2\source\repos\Zola.Progams\EmployeeProjectInCore\obj\Debug\netcoreapp2.1\EmployeeProjectInCore.pdb

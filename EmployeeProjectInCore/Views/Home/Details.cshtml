@@ -1,0 +1,25 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <h2>@ViewData["PageTitle"]</h2>
+    @{ 
+        var emp = ViewData["Employee"] as EmployeeProjectInCore.Models.Employee;
+    }
+  <h2>  @ViewBag.TitleBag</h2>  
+  <div>
+      Name: @emp.Name
+      Name: @ViewBag.EmpBag.Name
+  </div>
+  <div>
+      Email: @emp.Email
+      Name: @ViewBag.EmpBag.Email
+  </div>
+  <div>
+      Department : @emp.Department
+      Name: @ViewBag.EmpBag.Department
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,16 @@
+C:\Users\akasaxen2\Box Sync\Zola.Progams\Zola.DesignPatterns\obj\Debug\Zola.DesignPatterns.csprojAssemblyReference.cache
+C:\Users\akasaxen2\Box Sync\Zola.Progams\Zola.DesignPatterns\obj\Debug\Zola.DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\akasaxen2\Box Sync\Zola.Progams\Zola.DesignPatterns\bin\Debug\Zola.DesignPatterns.exe.config
+C:\Users\akasaxen2\Box Sync\Zola.Progams\Zola.DesignPatterns\bin\Debug\Zola.DesignPatterns.exe
+C:\Users\akasaxen2\Box Sync\Zola.Progams\Zola.DesignPatterns\bin\Debug\Zola.DesignPatterns.pdb
+C:\Users\akasaxen2\Box Sync\Zola.Progams\Zola.DesignPatterns\bin\Debug\MoreLinq.dll
+C:\Users\akasaxen2\Box Sync\Zola.Progams\Zola.DesignPatterns\bin\Debug\nunit.framework.dll
+C:\Users\akasaxen2\Box Sync\Zola.Progams\Zola.DesignPatterns\bin\Debug\System.ValueTuple.dll
+C:\Users\akasaxen2\Box Sync\Zola.Progams\Zola.DesignPatterns\bin\Debug\MoreLinq.pdb
+C:\Users\akasaxen2\Box Sync\Zola.Progams\Zola.DesignPatterns\bin\Debug\MoreLinq.xml
+C:\Users\akasaxen2\Box Sync\Zola.Progams\Zola.DesignPatterns\bin\Debug\nunit.framework.pdb
+C:\Users\akasaxen2\Box Sync\Zola.Progams\Zola.DesignPatterns\bin\Debug\nunit.framework.xml
+C:\Users\akasaxen2\Box Sync\Zola.Progams\Zola.DesignPatterns\bin\Debug\System.ValueTuple.xml
+C:\Users\akasaxen2\Box Sync\Zola.Progams\Zola.DesignPatterns\obj\Debug\Zola.DesignPatterns.csproj.CopyComplete
+C:\Users\akasaxen2\Box Sync\Zola.Progams\Zola.DesignPatterns\obj\Debug\Zola.DesignPatterns.exe
+C:\Users\akasaxen2\Box Sync\Zola.Progams\Zola.DesignPatterns\obj\Debug\Zola.DesignPatterns.pdb
